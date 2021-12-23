@@ -1,1 +1,2 @@
-Mior Project - Big Data Privacy Preservation
+Minor Project - Big Data Privacy Preservation
+
